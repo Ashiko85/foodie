@@ -1,0 +1,19 @@
+
+.orderButton{
+    border: none;
+    margin: 0px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    padding: 8px 24px;
+    background-color: #c81748;
+}
+
+.orderButton:hover{
+    background-color: #660026;
+    color: #fff;
+    transition: 0.2s ease-out;
+}
+
+
+
+
